@@ -1,0 +1,17 @@
+header {
+    background-color: darkolivegreen;
+}
+
+h2 {
+    background-color: indigo;
+    color: antiquewhite;
+}
+
+h3 {
+    background-color: darkslategray;
+    color: lightgoldenrodyellow;
+}
+
+img {
+    display: inline-block;
+}
